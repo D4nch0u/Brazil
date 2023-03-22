@@ -1,0 +1,66 @@
+#EXTM3U
+
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
+
+============================================== TV BERTA ==============================================
+
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" tvg-id="CanalFutura.br" group-title="Brazil",Futura
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" group-title="Brazil",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://i.imgur.com/TD6ZJoa.png" tvg-id="RecordTV.br" group-title="Brazil",Record
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-id="Rede TV" group-title="Brazil",Rede TV!
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+============================================== DESENHOS ==============================================
+
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" tvg-id="AnimeTV.br" group-title="Brazil",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" tvg-id="Cartoonito" group-title="Brazil",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-id="Cartoon Network" group-title="Brazil",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Gospel" tvg-logo="https://i.imgur.com/yxjPno5.png" tvg-id="Cartoon Gospel" group-title="Brazil",Cartoon Gospel
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Retro" tvg-logo="https://i.imgur.com/hIlEfhl.png" tvg-id="Cartoon Retro" group-title="Brazil",Cartoon Retro
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Classicos Nick" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids" tvg-id="Classicos Nick" group-title="Brazil",Classicos Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+
+=============================================== SPORTS ===============================================
+
+#EXTINF:-1 tvg-name="Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="Brazil",Sports Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+================================================ NEWS ================================================
+
+#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" group-title="Brazil",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" tvg-id="CNN Brasil" group-title="Brazil",CNN Brasil
+https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+#EXTINF:-1 tvg-name="JP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" tvg-id="JP News" group-title="Brazil",JP News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+
+================================================ SONGS ================================================
+
+#EXTINF:-1 tvg-name="Elemental" tvg-logo="https://www.elementalchannel.com.br/admin/assets/img/logo.png" tvg-id="Elemental" group-title="Brazil",Elemental
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Filmes Suspense" tvg-logo="https://i.imgur.com/45V9MKk.png" tvg-id="Filmes Suspense" group-title="Brazil",Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-name="Ghost TV" tvg-logo="https://i.imgur.com/ZVO8GVI.png" tvg-id="Ghost TV" group-title="Brazil",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
